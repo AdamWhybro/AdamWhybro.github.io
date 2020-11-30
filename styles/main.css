@@ -13,11 +13,16 @@ body {
 .subtitle-font {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 } 
 
+.subtitle-font-2 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+margin-left: 20px;
+} 
+
 h3 {
     color: rgb(92, 6, 46);
     margin-left: 20px;
     margin-right: 500px;
   }  
+
   p {font-family: Arial, Helvetica, sans-serif;
     margin-left: 20px;
     margin-right: 500px;
